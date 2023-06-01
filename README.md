@@ -1,4 +1,4 @@
-# Insurance Management Analysis Project
+# Insurance Management Analysis
 
 ## Project Overview
 This project aims to perform analysis and insights generation on insurance management data using PySpark, Azure Databricks, and Python. The project focuses on data processing, analysis, and visualization to gain valuable insights and make data-driven decisions in the insurance domain.
