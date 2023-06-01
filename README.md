@@ -30,3 +30,11 @@ The project is structured as follows:
 1. Clone the project repository:
    ```shell
    git clone https://github.com/V777-vino/Insurance-management-analysis
+   
+## Contributors
+- Sai prasanna
+- S Antony vinothan
+- Aravind
+
+##Refrenece
+'''shell 
