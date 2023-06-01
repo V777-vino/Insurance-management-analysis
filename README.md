@@ -29,4 +29,4 @@ The project is structured as follows:
 ## Installation
 1. Clone the project repository:
    ```shell
-   git clone https://github.com/your-username/insurance-management-analysis.git
+   git clone https://github.com/V777-vino/Insurance-management-analysis
